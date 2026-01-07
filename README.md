@@ -53,7 +53,12 @@ I love building **modern, responsive, and user-friendly web applications**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahsinhabibegen365&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahsinhabibegen365&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhabibegen365&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahsinhabibegen365&theme=tokyonight" />
 </p>
 
 
